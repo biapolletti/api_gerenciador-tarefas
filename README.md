@@ -21,7 +21,7 @@ Foram utilizadas as tecnologias **Java**, **Spring Boot**, **Spring MVC**, **Spr
 <h3 align="left">📌 API Endpoints</h3>
 
 Para realizar as requisições HTTP, foi utilizada a ferramenta [HTTPie](https://httpie.io).
-<p>Utilize a URL [], como nos exemplos abaixo.</p>
+<p>Utilize a URL [https://api-gerenciador-tarefas-h3hm.onrender.com], como nos exemplos abaixo.</p>
 
 - Criar Tarefa
 
